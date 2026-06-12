@@ -1,5 +1,7 @@
 
 # 👁️ **El Ojo de Dios** - Visor de Cámaras IP
+<img width="768" height="512" alt="de9c5f58-cd36-45d8-b4f1-472b96d07d4d" src="https://github.com/user-attachments/assets/dbb81635-2d70-488a-a463-b9f15a084aa2" />
+
 
 **El Ojo de Dios** es una herramienta diseñada para acceder a cámaras IP que, por configuración insegura, exponen sus transmisiones sin autenticación o con credenciales por defecto. Utiliza una interfaz gráfica minimalista basada en `tkinter` y `Pillow` para mostrar múltiples flujos de video en tiempo real.
 
