@@ -52,10 +52,13 @@ Para modificar las URLs de las cámaras:
 1. Edita el diccionario `URLS` en `eye.py`:
    ```python
    URLS = {
-       "Camara 1 - Oficina": "http://118.243.56.123/video.mjpg",
-       "Camara 2 - Parking": "http://203.181.31.45/stream"
+       "Camara 1 - Oficina": "http://118.243",
+       "Camara 2 - Parking": "http://203.181"
    }
    ```
+  <img width="1579" height="890" alt="image" src="https://github.com/user-attachments/assets/071a5303-caa0-405f-ab0d-0573630e26df" />
+
+
 2. Asegúrate de que las URLs sean accesibles (pueden requerir autenticación).
 
 ---
